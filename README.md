@@ -1,2 +1,2 @@
 # P342-Project
-By- Subhasish Basak, NISER
+Instructor - Subhasish Basak, NISER
